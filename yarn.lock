@@ -6822,17 +6822,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"fast-xml-parser@npm:^4.3.2":
-  version: 4.5.0
-  resolution: "fast-xml-parser@npm:4.5.0"
-  dependencies:
-    strnum: "npm:^1.0.5"
-  bin:
-    fxparser: src/cli/cli.js
-  checksum: 10/dc9571c10e7b57b5be54bcd2d92f50c446eb42ea5df347d253e94dd14eb99b5300a6d172e840f151e0721933ca2406165a8d9b316a6d777bf0596dc4fe1df756
-  languageName: node
-  linkType: hard
-
 "fastq@npm:^1.6.0":
   version: 1.16.0
   resolution: "fastq@npm:1.16.0"
@@ -12623,7 +12612,6 @@ __metadata:
     eslint-formatter-friendly: "npm:^7.0.0"
     eslint-plugin-import: "npm:^2.28.1"
     eslint-plugin-prettier: "npm:^5.0.1"
-    fast-xml-parser: "npm:^4.3.2"
     feed: "npm:^4.2.2"
     googleapis: "npm:^144.0.0"
     html-minifier-terser: "npm:^7.2.0"
